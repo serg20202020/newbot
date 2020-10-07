@@ -1,0 +1,3 @@
+# newbot
+
+ifconfog
